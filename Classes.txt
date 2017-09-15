@@ -1,0 +1,63 @@
+--Base Warrior Class--
+HP: 80
+AP: 20
+Strength: 20
+Defense: 14
+Accuracy: 16
+Luck: 10
+
+Speed: 0.75
+
+~=~ Specials ~=~
+* Strong Slash - 8 AP
+	Strong slash gives a three turn 20% strength boost.
+
+*Iron Skin - 8 AP
+	Iron skin gives a three turn 20% defense boost.
+
+*Clear Sight - 8 AP
+	Clear Sight gives a three turn 20% accuracy boost.
+
+============================
+
+--Base Rogue Class--
+HP: 60
+AP: 30
+Strength: 11
+Defense: 11
+Accuracy: 18
+Luck: 20
+
+Speed: 1.25
+
+~=~ Specials ~=~
+* Backstab - 8 AP
+	Backstab gives a one turn 75% bonus to damage.
+
+* Dark Shroud - 8 AP
+	Dark Shroud gives a three turn 30% bonus to accuracy
+
+* Poisoned Blade
+	Not implemented.
+
+============================
+
+--Base Wizard Class--
+HP: 50
+AP: 50
+Strength: 10
+Defense: 12
+Accuracy: 20
+Luck: 18
+
+Speed: 1.1
+
+~=~ Specials ~=~
+* Fireball - 10 AP
+	Fireball gives the wizard a one turn hit and bonus to damage/strength.
+
+* Stone Wall - 10 AP
+	Stone wall gives a 3 turn 40% bonus to defense.
+
+*Phase Shift - 10 AP
+	Phase shift gives a 3 turn 30% bonus to accuracy.

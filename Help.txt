@@ -1,0 +1,44 @@
+Hello, and welcome to "Not-So-Final Fantasy"
+@
+@
+All classes have three specialized attacks,
+and
+@
+both these and their basic stats
+are slightly different from one another.
+@
+@
+Please open the "Classes" text file included in the folder 
+if you wish to read 
+@
+up on the basic stats and abilities.
+@
+@
+In general,
+@
+-Strength makes a character hit harder.
+@
+-Defense reduces the damage taken.
+@
+-Accuracy improves chances to hit vital points.
+@
+-Luck increases chances to escape or not encounter
+ enemies.
+@
+-Speed improves chances to escape.
+@
+@
+@
+You start out with two HP and two AP potions- HP potions 
+can be used in combat 
+@
+to heal your character for 25 HP, whereas 
+the AP potions will restore 20 AP to 
+@
+your ability points.
+@
+@
+Use W, A, S, and D to move around, 
+or E to interact with the Omega symbol (boss) on the third floor
+ and to open doors(D) to change rooms.
+@
